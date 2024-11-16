@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @ZonunaVuite
-- 👀 I’m interested in C Programming
+- 👀 I’m interested in C, C++, HTML, CSS, PHP and JavaScript
 - 🌱 I’m currently sudying B.Tech
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach me in my email: zoavuite6@gmail.com
 
 <!---
 ZonunaVuite/ZonunaVuite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
